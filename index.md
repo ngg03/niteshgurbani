@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/ngg03/niteshgurbani/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Nitesh, I am an Educator, Social Worker, Events Manager, Web Developer and Polyglot. I speak and write English, Spanish, Hindi and Sindhi like a native. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
